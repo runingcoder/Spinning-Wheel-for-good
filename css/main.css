@@ -12,14 +12,14 @@ Verison History:
 
 body
 {
-   background-image: url('universe.jpeg');
+   background-image: url('../images/universe.jpeg');
     font-family: arial;
 }
 
 /* Sets the background image for the wheel */
 td.the_wheel
 {
-    background-image: url(./wheel_back.png);
+    background-image: url(../images/wheel_back.png);
     background-position: center;
     background-repeat: none;
 }
